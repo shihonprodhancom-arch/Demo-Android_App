@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary Theme Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+
+    <!-- Custom Modern UI Colors -->
+    <color name="primaryColor">#1E88E5</color>
+    <color name="primaryDark">#1565C0</color>
+    <color name="primaryLight">#90CAF9</color>
+
+    <color name="accentColor">#FF5722</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#757575</color>
+
+    <color name="backgroundLight">#F5F5F5</color>
+    <color name="backgroundDark">#303030</color>
+
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="danger">#F44336</color>
+</resources>
